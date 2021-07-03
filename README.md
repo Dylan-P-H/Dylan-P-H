@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dylan-P-H
 - 👀 I’m interested in Robots
-- 🌱 I’m currently learning Git, Javscript and CSS
+- 🌱 I’m currently learning Git, Javscript, CSS and Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 Dylan@eequ.org
 
