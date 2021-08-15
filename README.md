@@ -2,5 +2,5 @@
 - 👀 I’m interested in Robots
 - 📫 Dylan@eequ.org
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-P-H)](https://github.com/Dylan-P-H/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-P-H)](https://github.com/Dylan-P-H/github-readme-stats)
 
